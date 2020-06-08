@@ -25,6 +25,12 @@ import br.com.caelum.model.Categoria;
 import br.com.caelum.model.Loja;
 import br.com.caelum.model.Produto;
 
+/**
+ * Classe de configuração
+ * 
+ * @author thiago.machado
+ *
+ */
 @Configuration
 @EnableWebMvc
 @ComponentScan("br.com.caelum")
